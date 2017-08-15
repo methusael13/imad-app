@@ -9,7 +9,8 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 200%;
+    padding: 0 10%;
 }
 
 .bold {
@@ -20,3 +21,7 @@ body {
     height: 200px;
 }
 
+.sub-title {
+    font-family: monospace;
+    font-size: 13px;
+}
